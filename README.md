@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>يوزر بوت انجليزي و سريع و جميل و وري وري گوود.</b>
 </h3>
 
 ------
