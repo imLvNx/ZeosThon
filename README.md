@@ -11,11 +11,8 @@
 </h3>
 
 ------
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/ZeosThon)
 
-------
-## Deploy 🚀
-- [![Heroku](https://telegra.ph/file/3eace46675ea42a2d4df7.jpg)](#Deploy-To-Heroku)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/ZeosThon)
 
 ------
 
