@@ -22,3 +22,6 @@
 
 
 - [![My Telegram](https://telegra.ph/file/ba147051e6ff9cb2c8e31.jpg)](https://t.me/DcDyT)
+<h1 align="center">
+  <b>الخاص</b>
+</h1>
