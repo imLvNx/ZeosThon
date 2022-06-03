@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/c1b4db38d67b1e47bbdea.png" alt="The-HellBot">
 </p>
 
 <h3 align="center">
@@ -16,8 +16,6 @@
 ------
 ## Deploy 🚀
 - [![Heroku](https://telegra.ph/file/3eace46675ea42a2d4df7.jpg)](#Deploy-To-Heroku)
-
-- [![Railway](https://telegra.ph/file/35716b59cc180e4f282a4.jpg)](#Deploy-on-Railway)
 
 ------
 
