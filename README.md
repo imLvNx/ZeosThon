@@ -19,6 +19,6 @@
 
 ------
 
-- 💖 Team ZeosThon 
 
-------
+
+- [![My Telegram](https://telegra.ph/file/ba147051e6ff9cb2c8e31.jpg)](https://t.me/DcDyT)
