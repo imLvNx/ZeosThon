@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>ZeosThon 🏴313</b>
+  <b>ZeosThon ⚛️</b>
 </h1>
 
 <p align="center">
